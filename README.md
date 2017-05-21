@@ -1,9 +1,8 @@
 # NightLantern 
 ##### for Rust
 
-```
-_This plugin was originally created and developed by me, now is currently mantained and developed by k1lly0u of Oxide community. This GitHub version (1.2.0) refers to last version I uploaded, for last, stable, full functioning version (and its documentation) download latest release [here](http://oxidemod.org/downloads/oxide-for-rust.1659/)_
-```
+
+>_This plugin was originally created and developed by me, now is currently mantained and developed by k1lly0u of Oxide community. This GitHub version (1.2.0) refers to last version I uploaded, for last, stable, full functioning version (and its documentation) download latest release [here](http://oxidemod.org/downloads/oxide-for-rust.1659/)_
 
 NightLantern is a C# plugin for Rust, it is meant to be run by Oxide framework.
 Rust is PC survival game currently in development by Facepunch Studios.
